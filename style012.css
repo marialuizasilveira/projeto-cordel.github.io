@@ -11,7 +11,7 @@ header{
     max-height: 400px;
     padding: 50px;
     text-align: center;
-    width: 84.5vw;
+    width: 100vw;
 }
 
 header h1{
@@ -40,7 +40,7 @@ main{
     line-height: 2em;
     font-weight: bold;
     font-size: 3vw;
-    width: 90vw;
+    width: 100vw;
 }
 
 .normal{
@@ -83,5 +83,5 @@ footer{
     text-align: center;
     font-family: Arial, Helvetica, sans-serif;
     padding: 10px;
-    width: 90vw;
+    width: 100vw;
 }
