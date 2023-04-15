@@ -41,13 +41,13 @@ main{
     line-height: 2em;
     font-weight: bold;
     font-size: 3vw;
-    min-width: 450px;
+    min-width: 500px;
     max-width: 1600px;
 }
 
 .normal{
-    padding-top: 10vh;
-    padding-bottom: 10vh;
+    padding-top: 50px;
+    padding-bottom: 50px;
 }
 
 #joaninha{
@@ -61,7 +61,7 @@ main{
 
 .texto {
     background-color: rgba(0, 0, 0, 0.433);
-    width: 40vw;
+    width: 310px;
     color: white;
     margin: 10px 10px 10px 20px;
     text-shadow: 1px 2px 4px rgba(0, 0, 0, 0.514);
@@ -85,6 +85,6 @@ footer{
     text-align: center;
     font-family: Arial, Helvetica, sans-serif;
     padding: 10px;
-    min-width: 490px;
+    min-width: 600px;
     max-width: 1600px;
 }
