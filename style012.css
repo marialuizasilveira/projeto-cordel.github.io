@@ -11,7 +11,7 @@ header{
     min-height: 100px;
     padding: 50px;
     text-align: center;
-    min-width: 490px;
+    min-width: 600px;
     max-width: 1600px;
 }
 
@@ -41,7 +41,7 @@ main{
     line-height: 2em;
     font-weight: bold;
     font-size: 3vw;
-    min-width: 500px;
+    min-width: 600px;
     max-width: 1600px;
 }
 
