@@ -42,7 +42,7 @@ main{
     font-weight: bold;
     font-size: 3vw;
     min-width: 500px;
-    max-width: 690px;
+    max-width: 676px;
 }
 
 .normal{
@@ -56,7 +56,7 @@ main{
     background-attachment: fixed;
     margin: -30px;
     padding: 20px;
-    background-position: top right;
+    background-position: left center;
 }
 
 .texto {
